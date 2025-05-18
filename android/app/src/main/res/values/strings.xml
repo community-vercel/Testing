@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Accept button call text, useful for localization --> 
+    <string name="accept_text">Accept</string>
+    <!-- Decline button call text, useful for localization --> 
+    <string name="decline_text">Decline</string>
+    <!-- Missed call text, useful for localization --> 
+    <string name="text_missed_call">Missed call</string>
+    <!-- Callback button text, useful for localization --> 
+    <string name="text_call_back">Call back</string>
+    <!-- Incoming call custom UI header, useful for localization -->
+    <!-- This can be set from Flutter as well when displaying incoming call --> 
+    <string name="call_header">Incoming Call</string>
+
+
+    <string name="facebook_app_id">622376937347774</string>
+    <string name="fb_login_protocol_scheme">fb622376937347774</string>
+    <string name="facebook_client_token">6f6bf8c89506aeef07569a7159ba23d1</string>
+
+</resources>

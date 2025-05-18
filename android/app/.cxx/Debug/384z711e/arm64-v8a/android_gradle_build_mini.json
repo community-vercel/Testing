@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/eapple/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/eapple/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/eapple/Talksy-App/android/app/.cxx/Debug/384z711e/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/eapple/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/eapple/Talksy-App/android/app/.cxx/Debug/384z711e/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

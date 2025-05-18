@@ -1,0 +1,2 @@
+F:/BCL/Buzz-Me/android/app/.cxx/Debug/y53f5e45/x86/CMakeFiles/edit_cache.dir
+F:/BCL/Buzz-Me/android/app/.cxx/Debug/y53f5e45/x86/CMakeFiles/rebuild_cache.dir
